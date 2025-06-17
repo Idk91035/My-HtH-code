@@ -1,0 +1,22 @@
+-- Pseudocode alarm clock--
+
+Start
+
+1. Grab the alarm clock 
+2. Creat the alarm
+    a.Time(AM/PM)
+    b.Ringer(song,beat)
+
+3.Set the alarm and vibration(make sure its right time and vibration)
+
+When alarm rings at set time at set time:
+1.Click snoze
+    a.deley alarm 5 minutes and vibration 
+    b.deley alarm for 10 minutes and vibration
+
+    repeat until stop:
+        once extra time is up:
+        a.ask for x ammount of time
+        b.stop alarm
+
+
